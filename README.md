@@ -31,6 +31,6 @@ Python, Matlab
 
 ### Stats:
 
-[![Ipuch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipuch&show_icons=true&theme=radical)](https://github.com/Ipuch/github-readme-stats)
+[![Ipuch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipuch&show_icons=true&theme=calm)](https://github.com/Ipuch/github-readme-stats)
 
 
