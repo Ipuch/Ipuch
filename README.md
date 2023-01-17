@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with biomechanists
 - 💬 Ask me about Biomechanics and human motion analysis
 - 📫 How to reach me: pierre.puchaud@umontreal.ca
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 
 
 ### Languages and Tools:
