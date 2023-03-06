@@ -87,9 +87,6 @@ Medical Engineering & Physics, 69, 153-160.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white), and a little bit of 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white).
 
-
-Python, Matlab, a little bit of C++
-
 ### Github Statistics:
 
 [![Ipuch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ipuch&show_icons=true&theme=calm)](https://github.com/Ipuch/github-readme-stats)
