@@ -50,7 +50,7 @@ such as the muscle forces, fatigue modelling, population-based biomechanics, opt
   - **Puchaud, P.**, Charbonneau, E., & Begon, M. (2023). 
   Direct multiple shooting and direct collocation optimal control for acrobatics. [Code](https://github.com/Ipuch/msd-somersaults)
 
-#### Canadian Society for Mechanical Engineering (CSME) International Congress 2023 (May 28-31, 2023, Sherbrooke, QC, Canada). - SUBMITTED
+#### Canadian Society for Mechanical Engineering (CSME) International Congress 2023 (May 28-31, 2023, Sherbrooke, QC, Canada). - ACCEPTED
 
   - **Puchaud, P.**, Michaud, B., & Begon, M. (2023). 
 Simulating Human Motion with Fatigue Dynamics: An Adaptation of Xia's Three-Compartment Model. [Code](https://github.com/Ipuch/dumbell_lifting)
