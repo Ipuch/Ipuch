@@ -55,7 +55,7 @@ such as the muscle forces, fatigue modelling, population-based biomechanics, opt
   - **Puchaud, P.**, Michaud, B., & Begon, M. (2023). 
 Simulating Human Motion with Fatigue Dynamics: An Adaptation of Xia's Three-Compartment Model. [Code](https://github.com/Ipuch/dumbell_lifting)
 
-  - WORKSHOP: Advanced Musculoskeletal Biomechanics with Optimal Control: An Introduction to [Bioptim](https://github.com/pyomeca/bioptim)
+  - WORKSHOP: Advanced Musculoskeletal Biomechanics with Optimal Control: An Introduction to [Bioptim](https://github.com/pyomeca/bioptim), join the [event](https://www.eventbrite.fr/e/advanced-musculoskeletal-biomechanics-with-optimal-control-an-introduction-tickets-620214968667)
 
 ### Representative Publications
 
