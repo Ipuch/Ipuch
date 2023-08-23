@@ -33,7 +33,7 @@ Before that, I was a Ph.D student at Ecole Normale Superieure de Rennes,
 with [Charles Pontonnier](https://github.com/cpontonn) and Georges Dumont.
 I am passionate about understanding and modeling human movements. 
 Thanks to my Ph.D in biomechanics, I want to address scientific questions 
-such as the muscle forces, fatigue modelling, population-based biomechanics, optimal design of assistive devices and anatomical joint modelling.
+such as the muscle forces, fatigue modelling, population-based biomechanics, optimal design of assistive devices, and anatomical joint modelling.
 
 #### EDUCATION 🎓
 - Ph.D in Biomechanics, Ecole Normale Supérieure de Rennes, France (2017-2020)
@@ -41,9 +41,9 @@ such as the muscle forces, fatigue modelling, population-based biomechanics, opt
 - Engineer in Mechanical Engineering, Ecole Nationale Supérieure de Mécanique et des Microtechniques, Besançon, France (2013-2016)
 
 ### Interests in short
-- Biomechanics, Optimization, Motion Simulation, Joint modeling, Muscle modeling
+- Biomechanics, Optimization, Motion Simulation, Joint modeling, Muscle modeling, Multibody Dynamics
 
-### Upcoming Talks
+### Recent Talks
 #### ECCOMAS Thematic Conference on Multibody Dynamics (July 24-28, 2023, Lisbon, Portugal) - ACCEPTED
   - **Puchaud, P.**, Dumas, R., & Begon, M. (2023). 
   Exploring the Benefits of Variational Integrators with Natural Coordinates: A Pendulum Example. [Code](https://github.com/Ipuch/variational_integrator) 
@@ -59,12 +59,26 @@ Simulating Human Motion with Fatigue Dynamics: An Adaptation of Xia's Three-Comp
 
 ### Representative Publications
 
+• **Puchaud, P.**, Michaud, B., & Begon, M. (2023). 
+The interplay of fatigue dynamics and task achievement using optimal control predictive simulation
+[Code](https://github.com/Ipuch/dumbell_lifting),
+🐦[Twitter Thread](https://twitter.com/PPuchaud/status/1685967180532191232), 
+[Preprint](https://arxiv.org/pdf/2306.08164.pdf),
+Paper submitted for review.
+
+• **Puchaud, P.**, Bailly, F., & Begon, M. (2023). 
+Direct multiple shooting and direct collocation perform similarly in biomechanical predictive simulations. 
+Computer Methods in Applied Mechanics and Engineering, 414, 116162.
+[Code](https://github.com/Ipuch/dms-vs-dc),
+[Preprint](https://arxiv.org/pdf/2302.07645.pdf),
+[Paper](https://www.sciencedirect.com/science/article/pii/S0045782523002864?casa_token=Lt-7LBnJCcwAAAAA:rFiFPOHi4UUfZIs_i2_xqKKGuaRNVr8N1IXRkq7UyQ8g6HV4of8_5kk0uHWW-_UdZ68-VS8RbGg),
+
 • **Puchaud, P.**, Charbonneau, E., Michaud, B., & Begon, M. (2023). 
 Optimality equivalence and computational advantages of free-floating base dynamics compared to full-body dynamics. 
 Mechanism and Machine Theory, 181, 105164. 
 [Code](https://github.com/Ipuch/OnDynamicsForSomersaults), 
 [Database](https://data.mendeley.com/datasets/rz8t786st8), 
-[Twitter Thread](https://twitter.com/PPuchaud/status/1611487091166416897), 
+🐦[Twitter Thread](https://twitter.com/PPuchaud/status/1611487091166416897), 
 [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4096894), 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0094114X22004098?via%3Dihub)
 
