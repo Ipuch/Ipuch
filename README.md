@@ -59,12 +59,12 @@ Simulating Human Motion with Fatigue Dynamics: An Adaptation of Xia's Three-Comp
 
 ### Representative Publications
 
-• **Puchaud, P.**, Michaud, B., & Begon, M. (2023). 
+• **Puchaud, P.**, Michaud, B., & Begon, M. (2024). 
 The interplay of fatigue dynamics and task achievement using optimal control predictive simulation
 [Code](https://github.com/Ipuch/dumbell_lifting),
 🐦[Twitter Thread](https://twitter.com/PPuchaud/status/1685967180532191232), 
 [Preprint](https://arxiv.org/pdf/2306.08164.pdf),
-Paper submitted for review.
+Paper accepted in Human Movement Science.
 
 • **Puchaud, P.**, Bailly, F., & Begon, M. (2023). 
 Direct multiple shooting and direct collocation perform similarly in biomechanical predictive simulations. 
