@@ -63,7 +63,7 @@ Leading the CocoFEST project for FES optimal control, based on Bioptim framework
 
 #### Majority-judgment
 **Language:** Python and Rust
-Led an initiative to follow public opinion, according to majority judgment, an alternative voting method, during the French presidential campaign of 2022. I collected data from public opinion polls and presented monthly developments to the association members. [GitHub](https://github.com/MieuxVoter/majority-judgment-tracker). And more recently, I led the implementation of the voting system in Rust Language [Github](https://github.com/MieuxVoter/majority-judgment-rust)
+Led an initiative to follow public opinion, according to majority judgment, an alternative voting method, during the French presidential campaign of 2022. I collected data from public opinion polls and presented monthly developments to the association members. [GitHub](https://github.com/MieuxVoter/majority-judgment-tracker). More recently, I led the implementation of the voting system in Rust Language [Github](https://github.com/MieuxVoter/majority-judgment-rust)
 
 
 ### Recent Talks
