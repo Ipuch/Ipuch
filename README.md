@@ -43,6 +43,29 @@ such as the muscle forces, fatigue modelling, population-based biomechanics, opt
 ### Interests in short
 - Biomechanics, Optimization, Motion Simulation, Joint modeling, Muscle modeling, Multibody Dynamics
 
+### Main Coding Projects
+
+#### Bioptim
+**Language:** Python  
+A Python library for biomechanics optimal control, integrating Acados and Ipopt solvers, with my leadership in theoretical developments and coordination. Published in IEEE Transactions. [GitHub](https://github.com/pyomeca/bioptim)
+
+#### CusToM
+**Language:** MATLAB (Python development ongoing)  
+Contributed to a MATLAB toolbox for musculoskeletal analyses and model personalization during my PhD, with user customization and modularity. Published in the Journal of Open Source Software. [GitHub](https://github.com/anmuller/CusToM)
+
+#### BioNC
+**Language:** Python  
+Initiated and led the development of BioNC for biomechanics dynamics in natural coordinates, enhancing model creation and analysis capabilities. [GitHub](https://github.com/Ipuch/bionc)
+
+#### CocoFEST
+**Language:** Python  
+Leading the CocoFEST project for FES optimal control, based on Bioptim framework, addressing dynamic modeling and fatigue behavior. Forthcoming publication in the Journal of Open Source Software. [GitHub](https://github.com/Kev1Co/cocofest)
+
+#### Majority-judgment
+**Language:** Python and Rust
+Led an initiative to follow public opinion, according to majority judgment, an alternative voting method, during the French presidential campaign of 2022. I collected data from public opinion polls and presented monthly developments to the association members. [GitHub](https://github.com/MieuxVoter/majority-judgment-tracker). And more recently, I led the implementation of the voting system in Rust Language [Github](https://github.com/MieuxVoter/majority-judgment-rust)
+
+
 ### Recent Talks
 #### ECCOMAS Thematic Conference on Multibody Dynamics (July 24-28, 2023, Lisbon, Portugal) - ACCEPTED
   - **Puchaud, P.**, Dumas, R., & Begon, M. (2023). 
