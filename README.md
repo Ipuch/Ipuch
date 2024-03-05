@@ -45,30 +45,14 @@ such as the muscle forces, fatigue modelling, population-based biomechanics, opt
 
 ### Main Coding Projects
 
-#### Bioptim
-**Language:** Python 
+| Project           | Language             | Description                                                                                                                                                                           | GitHub                                               |
+|-------------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| **Bioptim**       | Python               | A Python library for biomechanics optimal control, integrating Acados and Ipopt solvers, with my leadership in theoretical developments and coordination. Published in IEEE Transactions. | [GitHub](https://github.com/pyomeca/bioptim)       |
+| **CusToM**        | MATLAB               | Contributed to a MATLAB toolbox for musculoskeletal analyses and model personalization during my PhD, with user customization and modularity. Published in the Journal of Open Source Software. | [GitHub](https://github.com/anmuller/CusToM)      |
+| **BioNC**         | Python               | Initiated and led the development of BioNC for biomechanics dynamics in natural coordinates, facilitating model creation and analysis.                                                  | [GitHub](https://github.com/Ipuch/bionc)            |
+| **CocoFEST**      | Python               | Functional electric stimulation optimal control, based on Bioptim framework, addressing dynamic modeling and fatigue behavior. More to come with @kev1co.                               | [GitHub](https://github.com/Kev1Co/cocofest)       |
+| **Majority-judgment** | Python and Rust    | Led an initiative to follow public opinion, according to majority judgment, an alternative voting method, during the French presidential campaign of 2022. I collected data from public opinion polls and presented monthly developments to the association members. More recently, I led the implementation of the voting system in Rust Language. | [Link1](https://github.com/MieuxVoter/majority-judgment-tracker), [Link2](https://github.com/MieuxVoter/majority-judgment-rust) |
 
-A Python library for biomechanics optimal control, integrating Acados and Ipopt solvers, with my leadership in theoretical developments and coordination. Published in IEEE Transactions. [GitHub](https://github.com/pyomeca/bioptim)
-
-#### CusToM
-**Language:** MATLAB
-
-Contributed to a MATLAB toolbox for musculoskeletal analyses and model personalization during my PhD, with user customization and modularity. Published in the Journal of Open Source Software. [GitHub](https://github.com/anmuller/CusToM)
-
-#### BioNC
-**Language:** Python  
-
-Initiated and led the development of BioNC for biomechanics dynamics in natural coordinates, facilitating model creation and analysis. [GitHub](https://github.com/Ipuch/bionc)
-
-#### CocoFEST
-**Language:** Python  
-
-Functionnal electric stinulation optimal control, based on Bioptim framework, addressing dynamic modeling and fatigue behavior. More to come with @kev1co. [GitHub](https://github.com/Kev1Co/cocofest)
-
-#### Majority-judgment
-**Language:** Python and Rust
-
-Led an initiative to follow public opinion, according to majority judgment, an alternative voting method, during the French presidential campaign of 2022. I collected data from public opinion polls and presented monthly developments to the association members. [GitHub](https://github.com/MieuxVoter/majority-judgment-tracker). More recently, I led the implementation of the voting system in Rust Language [Github](https://github.com/MieuxVoter/majority-judgment-rust)
 
 
 ### Recent Talks
