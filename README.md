@@ -17,7 +17,7 @@ Pierre Puchaud, Ph.D, Postdoctoral Researcher @Université de Montréal, Laborat
 (he/him)
 
 - 📫 : pierre.puchaud@umontreal.ca
-- 🐦 : [@PPuchaud](https://twitter.com/PPuchaud)
+- 🦋 : [@PPuchaud](https://bsky.app/profile/ipuch.bsky.social)
 - 📜 : [Google Scholar](https://scholar.google.ca/citations?user=hQiWOx4AAAAJ&hl=fr&oi=ao)
 - 📄 : [ResearchGate](https://www.researchgate.net/profile/Pierre-Puchaud)
 - 📄 : [ORCID](https://orcid.org/0000-0002-9335-630X)
