@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Bio
-Pierre Puchaud, Ph.D, Postdoctoral Researcher @Université de Montréal, Laboratoire de Simulation et Modélisation du Mouvement (S2M)
+Pierre Puchaud, Ph.D, Now Full Researcher @INRIA - Bordeaux in AUCTUS
+Previously Postdoctoral Researcher @Université de Montréal, Laboratoire de Simulation et Modélisation du Mouvement (S2M)
 (he/him)
 
 - 📫 : pierre.puchaud@umontreal.ca
