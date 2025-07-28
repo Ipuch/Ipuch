@@ -28,7 +28,7 @@ Previously Postdoctoral Researcher @Université de Montréal, Laboratoire de Sim
  👯 I’m looking to collaborate with biomechanists
 🥅 2023 Goals: Contribute more to Open Source projects.-->
 
-I am a postdoctoral researcher at Université of Montréal inside the S2M Lab 
+I am a Inria Research Scientist @Inria Bordeaux, France, previously postdoc at Université of Montréal inside the S2M Lab 
 working with Mickael Begon on biomechanics and predictive simulation. 
 Before that, I was a Ph.D student at Ecole Normale Superieure de Rennes, 
 with [Charles Pontonnier](https://github.com/cpontonn) and Georges Dumont.
