@@ -17,7 +17,7 @@ Pierre Puchaud, Ph.D, Now Full Researcher @INRIA - Bordeaux in AUCTUS
 Previously Postdoctoral Researcher @Université de Montréal, Laboratoire de Simulation et Modélisation du Mouvement (S2M)
 (he/him)
 
-- 📫 : pierre.puchaud@umontreal.ca
+- 📫 : pierre.puchaud@inria.fr
 - 🦋 : [@PPuchaud](https://bsky.app/profile/ipuch.bsky.social)
 - 📜 : [Google Scholar](https://scholar.google.ca/citations?user=hQiWOx4AAAAJ&hl=fr&oi=ao)
 - 📄 : [ResearchGate](https://www.researchgate.net/profile/Pierre-Puchaud)
